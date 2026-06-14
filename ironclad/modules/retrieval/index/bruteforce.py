@@ -2,9 +2,7 @@ import numpy as np
 import pickle
 import faiss
 
-########################################
-# TASK: Implement FaissBruteForce 
-########################################
+
 
 class FaissBruteForce:
     """
