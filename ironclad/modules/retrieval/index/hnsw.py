@@ -2,9 +2,6 @@ import numpy as np
 import pickle
 import faiss
 
-########################################
-# TASK: Implement FaissHNSW 
-########################################
 
 class FaissHNSW:
     """
