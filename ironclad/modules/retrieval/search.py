@@ -1,8 +1,6 @@
 import numpy as np
 
-######################
-# TASK: Implement FaissSearch
-######################
+
 
 class FaissSearch:
     def __init__(self, faiss_index, metric='euclidean', p=3):
